@@ -1,0 +1,2 @@
+Name=PONG
+Main=Main
